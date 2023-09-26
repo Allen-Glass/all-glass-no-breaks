@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="400" viewBox="0 0 200 400">
+    <!-- Tower Base -->
+    <rect x="75" y="300" width="50" height="100" fill="#444" />
+
+    <!-- Tower Body -->
+    <rect x="90" y="100" width="20" height="200" fill="#444" />
+
+    <!-- Saucer Base -->
+    <ellipse cx="100" cy="100" rx="70" ry="20" fill="#444" />
+
+    <!-- Saucer Rings -->
+    <ellipse cx="100" cy="100" rx="60" ry="15" fill="#666" />
+    <ellipse cx="100" cy="100" rx="50" ry="10" fill="#888" />
+
+    <!-- Observation Deck -->
+    <rect x="85" y="50" width="30" height="50" fill="#444" />
+
+    <!-- Spire -->
+    <polygon points="100,10 105,50 95,50" fill="#444" />
+
+    <!-- Windows -->
+    <circle cx="110" cy="120" r="5" fill="#33b5e5" />
+    <circle cx="130" cy="120" r="5" fill="#33b5e5" />
+    <circle cx="110" cy="140" r="5" fill="#33b5e5" />
+    <circle cx="130" cy="140" r="5" fill="#33b5e5" />
+    <!-- Add more windows as needed -->
+
+</svg>
