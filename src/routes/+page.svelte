@@ -10,7 +10,7 @@
 	<div class="text-xl mr-auto mt-2">
 		Building modern, scalable SaaS platforms
 	</div>
-	<div class="mt-8 w-full h-96 rounded-lg border border-secondary bg-secondary p-2 card1">
+	<div class="mt-8 w-full h-96 rounded-lg border border-secondary bg-secondary p-2 hero-card">
 		<div class="w-full h-full grid grid-cols-6 grid-rows-6 gap-2">
 			<WorkExperience />
 			<div class="col-span-2 row-span-6 border h-full card rounded-lg px-2 py-1">

@@ -1,0 +1,17 @@
+﻿/node_modules
+*.cache
+*.dll
+.dll
+.pdb
+*.exe
+*.pdb
+*.map
+/build/
+*.suo
+*.user
+.routify
+*.v2
+.vs/
+.vs
+/bin
+/obj
