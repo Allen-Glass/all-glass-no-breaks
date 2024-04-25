@@ -8,7 +8,7 @@ export default {
       "secondary": "#2f2b3a",
       "surface": "#121212",
       "background": "#1a1625",
-      "card": "#46424f"
+      "card": "rgba(70, 66, 79, .8)"
     }
   },
   plugins: [],

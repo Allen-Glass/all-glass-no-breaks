@@ -1,4 +1,4 @@
-<div on:mouseenter={() => showAnimations = true} on:mouseleave={() => showAnimations = false} class="border-gradient col-span-4 row-span-4 rounded-lg">
+<div on:mouseenter={() => showAnimations = true} on:mouseleave={() => showAnimations = false} on:click={focus} class="border-gradient col-span-4 row-span-4 rounded-lg">
     <div id="work" style="height: 98.5%;" class="border card rounded-lg p-4 cursor-pointer">
         <div class="relative">
             <h1>Work Experience</h1>
@@ -7,9 +7,7 @@
                     <img id="msft" class=" opacity-30" alt="Microsoft" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="30" />
                 </div>
                 <div class="absolute">
-                    <div >
-                        <Hanoi />
-                    </div>
+					<Hanoi />
                 </div>
             {/if}
         </div>
@@ -73,6 +71,10 @@
 
 		imageXPosition = xVelocity + imageXPosition;
 		imageYPosition = yVelocity + imageYPosition;
+	}
+
+	function focus() {
+		window.location.hash = "work";
 	}
 
 </script>

@@ -2,7 +2,6 @@
 
 main {
     color: #eeeeee;
-    font-family: 'Playfair Display', serif;
 }
 
 h1 {
@@ -17,9 +16,14 @@ h3 {
     font-size: large !important;
 }
 
-.path {
-    stroke-dasharray: 20;
-    animation: dash 5s linear;
+.side-panel {
+    position: absolute;
+    background-repeat: repeat-y;
+}
+
+.draw {
+    stroke-dasharray: 10;
+    animation: dash 100s linear infinite;
 }
 
 .blink {
@@ -42,6 +46,10 @@ h3 {
     border: unset;
 }
 
+.card-allen {
+    background: linear-gradient(0deg, #000, #272727);
+}
+
 .glow {
     width: 40px;
     height: 40px;
@@ -55,7 +63,6 @@ h3 {
   
 .border-gradient:hover {
     background: linear-gradient(45deg, #382bf0, #5e43f3, #7a5af5, #9171f8,#a688fa, #ba9ffb, #0000ff, #eee, #fff);
-    /*background: linear-gradient(45deg, #fb0094, #0000ff, #00ff00,#ffff00, #ff0000, #fb0094, #0000ff, #00ff00,#ffff00, #ff0000);*/
     animation : gradient 15s ease infinite;
     background-size: 400% 400%;
 }
