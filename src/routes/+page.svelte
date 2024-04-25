@@ -8,7 +8,7 @@
 	<div class="flex w-full">
 		<div class="mr-auto">
 			<div class="text-6xl mr-auto mt-6 ">
-				Software Engineer & <br /> Software Engineering Manager
+				Software Engineer & <br /> Engineering Manager
 			</div>
 			<div class="text-xl mr-auto mt-2">
 				Building modern, scalable SaaS platforms
@@ -135,9 +135,14 @@
 		</div>
 		<div class="border p-2 rounded-lg bg-card">
 			<div class="flex flex-row flex-wrap">
-				<Pill text="Svelte" category="Language" />
-				<Pill text="Sveltekit" category="Language" />
-				<Pill text="React" category="Language" />
+				<Pill text="C#" category="Language" />
+				<Pill text="Javascript/Typescript" category="Language" />
+				<Pill text=".NET Core" category="Backend" />
+				<Pill text=".NET Framework" category="Backend" />
+				<Pill text="Express.js" category="Backend" />
+				<Pill text="Svelte" category="Frontend" />
+				<Pill text="Sveltekit" category="Frontend" />
+				<Pill text="React" category="Frontend" />
 				<Pill text="Vue" category="Frontend" />
 				<Pill text="jQuery" category="Frontend" />
 				<Pill text="AngularJs" category="Frontend" />

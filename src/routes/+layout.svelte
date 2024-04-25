@@ -17,28 +17,28 @@
 		</div>
 	</div>
 	<main>
-		<div class="relative ml-1">
-			<div class="absolute w-full h-full pr-4">
+		<div class="relative">
+			<div class="absolute w-full h-full">
 				<svg class="draw w-full h-full" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20em" height="50em" viewBox="0 0 100 100">
 					<polygon fill="#1a1625" fill-opacity="0.0" stroke="#d4af37" stroke-width=".1" points="0 50, 50 100, 100 50, 50 0"/>
 				</svg>
 			</div>
-			<div class="absolute w-full h-full pr-4">
+			<div class="absolute w-full h-full">
 				<svg class="draw w-full h-full" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20em" height="50em" viewBox="0 0 100 100">
 					<polygon fill="#1a1625" fill-opacity="0.0" stroke="#d4af37" stroke-width=".1" points="25 25, 25 75, 75 75, 75 25"/>
 				</svg>
 			</div>
-			<div class="absolute w-full h-full pr-4">
+			<div class="absolute w-full h-full">
 				<svg class="draw w-full h-full" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20em" height="50em" viewBox="0 0 100 100">
 					<polygon fill="#1a1625" fill-opacity="0.0" stroke="#d4af37" stroke-width=".1" points="25 50, 50 75, 75 50, 50 25"/>
 				</svg>
 			</div>
-			<div class="absolute w-full h-full pr-4">
+			<div class="absolute w-full h-full">
 				<svg class="draw w-full h-full" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20em" height="50em" viewBox="0 0 100 100">
 					<polygon fill="#1a1625" fill-opacity="0.0" stroke="#d4af37" stroke-width=".1" points="38 38, 38 62, 62 62, 62 38"/>
 				</svg>
 			</div>
-			<div class="absolute w-full h-full pr-4">
+			<div class="absolute w-full h-full">
 				<svg class="draw w-full h-full" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20em" height="50em" viewBox="0 0 100 100">
 					<polygon fill="#1a1625" fill-opacity="0.0" stroke="#000" stroke-width=".05" points="0 50, 50 100, 100 50, 50 0"/>
 				</svg>
