@@ -121,9 +121,9 @@
 		</div>
 	</div>
 	<div class="mt-2 w-full pb-2 pr-2 rounded-lg">
-		<div class="flex flex-row flex-nowrap">
+		<div class="flex flex-row">
 			<h1 class="float-left mr-2">Skills</h1>
-			<div class="flex flex-row my-auto">
+			<div class="flex flex-row my-auto flex-wrap">
 				<Pill text="Language" category="Language" />
 				<Pill text="Backend" category="Backend" />
 				<Pill text="Frontend" category="Frontend" />
