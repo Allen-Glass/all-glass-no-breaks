@@ -48,10 +48,6 @@
 			</div>
 		</div>
 	</main>
-
-	<footer>
-		<p>This site was made by a non Mitch.</p>
-	</footer>
 </div>
 
 <style>
